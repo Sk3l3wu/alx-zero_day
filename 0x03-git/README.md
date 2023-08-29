@@ -1,0 +1,1 @@
+This is the first directory for in the zero alx project
